@@ -18,5 +18,7 @@ To use Scrape Metadata, follow these steps:
 
      npm install
 
-
+ ## Here's an example of how you can make a GET request
+ 
+     http://localhost:3000/scrape?url=https://www.jumia.ma
 
